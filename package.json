@@ -1,0 +1,12 @@
+{
+  "name": "downloadupvotedimages",
+  "version": "0.0.0",
+  "description": "Easilly download your upvoted images from reddit",
+  "main": "dru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dnomaid.co.uk",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "https://github.com/mrdnomaid/downloadupvotedimages.git"
+}
