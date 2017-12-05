@@ -1,6 +1,8 @@
 # downloadupvotedimages
-Easilly download your upvoted images from reddit
+Easily download your upvoted images from reddit
+
 ---
+
 ## How to:
 1. Make sure you have `request` and `fs` installed (`npm install request fs` to install)
 
